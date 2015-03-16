@@ -1,7 +1,7 @@
 Reddit-Data-Scraper
 ===================
 
-Scrapes posts from /new and collects information about posts and comments. Best effort for getting all posts and comments in a week.
+Scrapes posts from /new (ebola) and collects information about posts and comments. Best effort for getting all posts and comments in a week.
 
 Programming as the data collection portion for another student's analysis project.
 
