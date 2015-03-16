@@ -16,7 +16,7 @@ import copy
 
 #global declares
 verbose = True
-targetSubreddit = 'pics'
+targetSubreddit = 'ebola'
 target = "http://www.reddit.com/r/" + targetSubreddit + "/new/.json?sort=new"
 posts = {}
 comments = {}
