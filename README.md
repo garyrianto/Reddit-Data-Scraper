@@ -27,6 +27,6 @@ Basic algorithm:
 		The program flags people with greater than 50 upvotes or downvotes and gets the content of their posts for analysis
 			It goes back and gets their posts that were added before they were flagged
 		The program outputs everything to .csv files
-		User names are hashed to protect anonymity
+	
 
 tl;dr Attempts to get all posts and comments from a target subreddit made in 1 week.
